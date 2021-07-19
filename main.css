@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(142, 238, 201);
+    /*font-family: Montserrat, sans-serif;*/
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+    background-color: white;
+    box-shadow: 2px 2px 2px;
+    margin: 5px;
+    max-width: 30%;
+}
+.cardtitle {
+    border-color: lightblue;
+    border-radius: 10px;
+}
+
+.footer {
+    color: rgb(211, 199, 32);
+    background-color: rgb(122, 118, 118);
+}
